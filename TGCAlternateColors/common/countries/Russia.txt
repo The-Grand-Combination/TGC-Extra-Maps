@@ -1,6 +1,6 @@
 ## /common/countries/country.txt ##
 
-color = { 0 127 14 }
+color = { 0 87 63 }
 proletarian_dictatorship = { 125 13 24 }
 graphical_culture = RussianGC
 
